@@ -19,7 +19,8 @@ github requires git.
 ## Initial Setup
 
 go to [github](github.com)
-
+create an account
+copy paste the ssh key
 ---
 ## Repository Setup
 
@@ -58,3 +59,6 @@ three parts to a git project
 
 ---
 ## Rolling Back Changes
+
+git reset
+git checkout
